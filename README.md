@@ -7,7 +7,8 @@
 
 ### 🎒 외출 시에 꼭 챙기는 물건은?
 > 헤드폰 🎧    
->> _music is my life_   
+>> _music is my life_
+
 > 책 📖    
 >> _reading list_   
 >> *UX 라이팅   
